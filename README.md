@@ -2,7 +2,7 @@
 
 <br />
 
-## I'm almost a graduated mechatronics engineer!!
+## I'm an almost graduated mechatronics engineer!!
 
 - 💻 I'm currently developing more programming skills
 - 🤖 I’m interested in microcontrollers, power electronics and robotics
@@ -10,13 +10,11 @@
 - 🏆 2021 Goals: to become a self-taught programmer
 - ⚡ Fun fact: I love sushi, coffee, to skate and climb
 
-### Connect with me:
+### Connect with me: 
 
 [<img align="left" alt="ferzsal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ferzsal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ferzsal | Spotify" width= "22 px" src= "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" />][spotify]
-
- 
 
 <br />
 
@@ -31,17 +29,11 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-<br />
-<br />
-
-
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ferzsal's GitHub Stats" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
-" />
+<img align= "left" alt= "ferzsal's Github Stats" src ="https://github-readme-stats.vercel.app/api?username=ferzsal&show_icons=true&theme=tokyonight" />
 
 </details>
 
