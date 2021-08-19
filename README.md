@@ -31,7 +31,7 @@
 
 <br />
 
-### ⚡ Github Stats:
+### 📊 Github Stats:
 <img align= "left" alt= "ferzsal's Github Stats" src ="https://github-readme-stats.vercel.app/api?username=ferzsal&show_icons=true&theme=tokyonight" />
 
 </details>
