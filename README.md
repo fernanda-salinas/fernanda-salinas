@@ -1,6 +1,6 @@
 ### Hey there, I'm Fernanda - aka [ferzsal] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<br />
 
 ## I'm almost a graduated mechatronics engineer!!
 
@@ -14,7 +14,7 @@
 
 [<img align="left" alt="ferzsal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ferzsal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="ferzsal | Spotify" width= "22 px" src= "https://cdn.jsdelivr.net/npm/simple-line-icons@2.5.5/src/svgs/social-spotify.svg/>"][spotify]
+[<img align="left" alt="ferzsal | Spotify" width= "22 px" src= "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" />][spotify]
 
  
 
@@ -34,12 +34,14 @@
 <br />
 <br />
 
+
 ---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ferzsal's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ferzsal&show_icons=true&theme=tokyonight" />
+  <img align="left" alt="ferzsal's GitHub Stats" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+" />
 
 </details>
 
