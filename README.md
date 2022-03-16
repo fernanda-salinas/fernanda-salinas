@@ -7,7 +7,7 @@
 🍁  &nbsp;I recently moved to Canada to start my first job as a junior mechatronics engineer.\
 🤖 &nbsp;I'm passionate about promoting STEM and women in tech.\
 💬 &nbsp;Feel free to reach out to me.\
-✉️ &nbsp;You can shoot me an email at ferzsal@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at ferzsal@gmail.com! I'll try to respond as soon as I can.
 
 
 ### Connect with me: 
