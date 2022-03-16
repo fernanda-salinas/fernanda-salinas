@@ -1,14 +1,14 @@
-### Hey there, I'm Fernanda - aka [ferzsal] 👋
+<!-- ## 👋 &nbsp;Hey there! I'm Fernanda -->
 
-<br />
+### 👩‍🚀 &nbsp;About Me 
 
-## I'm an almost graduated mechatronics engineer!!
+⚡ &nbsp;I'm interested in automation, robotics, microcontrollers and power electronics.\
+🎓 &nbsp;I'm currently a senior student of Mechatronics Engineering at Universidad de las Americas Puebla (UDLAP).\
+🍁  &nbsp;I recently moved to Canada to start my first job as a junior mechatronics engineer.\
+🤖 &nbsp;I'm passionate about promoting STEM and women in tech.\
+💬 &nbsp;Feel free to reach out to me.\
+✉️ &nbsp;You can shoot me an email at ferzsal@gmail.com! I'll try to respond as soon as I can.\
 
-- 💻 I'm currently developing more programming skills
-- 🤖 I’m interested in microcontrollers, power electronics and robotics
-- 🔋 I’m looking for a career switch focused on software, path not decided yet
-- 🏆 2021 Goals: to become a self-taught programmer
-- ⚡ Fun fact: I love sushi, coffee, to skate and climb
 
 ### Connect with me: 
 
