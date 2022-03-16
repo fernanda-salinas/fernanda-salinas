@@ -9,18 +9,24 @@
 💬 &nbsp;Feel free to reach out to me.\
 ✉️ &nbsp;You can shoot me an email at ferzsal@gmail.com! I'll try to respond as soon as I can.
 
-### Languages and Tools:
+### 🛠 &nbsp;Tech Stack
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="Arduino" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" />]
-[<img align="left" alt="Python" width="26px" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo.png" />]
-[<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />]
-[<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-<br />
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Ladder] (https://img.shields.io/badge/-Ladder_Programming-green)&nbsp;
+![Structured Text] (https://img.shields.io/badge/-Structured_Text_Programming-D0F2F2)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-038C8C?logo=arduino)&nbsp;
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange)&nbsp;
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+
+
 
 ### Connect with me: 
 <p align="center">
