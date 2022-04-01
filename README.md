@@ -15,8 +15,9 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)&nbsp;
-![Ladder](https://img.shields.io/badge/-Ladder_Programming-green?style=flat)&nbsp;
-![Structured Text](https://img.shields.io/badge/-Structured_Text_Programming-D0F2F2?style=flat)&nbsp;
+![Ladder [LD]](https://img.shields.io/badge/-Ladder_Programming_[LD]-green?style=flat)&nbsp;
+![Structured Text](https://img.shields.io/badge/-Structured_Text_Programming_[ST]-D0F2F2?style=flat)&nbsp;
+![Functional Block Diagram Programming [FBD]](https://img.shields.io/badge/-FBD_Programming-e87de3?style=flat)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-038C8C?logo=arduino)&nbsp;
 ![MATLAB](https://img.shields.io/badge/-MATLAB-orange)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex)&nbsp;
