@@ -32,10 +32,8 @@
 ### Connect with me: 
 <p align="center">
 
-[<img align="left" alt="ferzsal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ferzsal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="ferzsal | Spotify" width= "22 px" src= "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" />][spotify]
-
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mafernandalosa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/mafernandalosa?trk=profile-badge">María Fernanda López Salinas</a></div>
+              
 </p>
 
 <br />
