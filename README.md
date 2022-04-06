@@ -30,11 +30,9 @@
 
 
 ### Connect with me: 
-<p align="center">
-
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mafernandalosa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/mafernandalosa?trk=profile-badge">María Fernanda López Salinas</a></div>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="mafernandalosa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/mafernandalosa?trk=profile-badge">María Fernanda López Salinas</a></div>
               
-</p>
+             
 
 <br />
 
