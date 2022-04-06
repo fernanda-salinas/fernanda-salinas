@@ -30,8 +30,7 @@
 
 
 ### Connect with me: 
-![linkedin] (https://linkedin-github.herokuapp.com/api/render/Fernanda%20Salinas/Jr%20Mechatronics%20Engineer/Vdot%20Cleantech%20Inc/UDLAP/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4E03AQEDL8tib7CYvw%2Fprofile-displayphoto-shrink_800_800%2F0%2F1618010342251%3Fe%3D1654732800%26v%3Dbeta%26t%3DfK_bcPeNToOUN0bX8qoD18DYuWoBkcK6xikLZ3zO7gQ)
-              
+[![linkedin](https://linkedin-github.herokuapp.com/api/render/Fernanda%20Salinas/Jr%20Mechatronics%20Engineer/Vdot%20Cleantech%20Inc/UDLAP/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4E03AQEDL8tib7CYvw%2Fprofile-displayphoto-shrink_800_800%2F0%2F1618010342251%3Fe%3D1654732800%26v%3Dbeta%26t%3DfK_bcPeNToOUN0bX8qoD18DYuWoBkcK6xikLZ3zO7gQ)](https://www.linkedin.com/in/mafernandalosa/)
              
 
 <br />
