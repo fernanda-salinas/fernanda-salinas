@@ -18,12 +18,12 @@
 ![Ladder [LD]](https://img.shields.io/badge/-Ladder_Programming_[LD]-green?style=flat)&nbsp;
 ![Structured Text](https://img.shields.io/badge/-Structured_Text_Programming_[ST]-D0F2F2?style=flat)&nbsp;
 ![Functional Block Diagram Programming [FBD]](https://img.shields.io/badge/-FBD_Programming-e87de3?style=flat)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-038C8C?logo=arduino)&nbsp;
+![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 ![MATLAB](https://img.shields.io/badge/-MATLAB-orange)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 
 
