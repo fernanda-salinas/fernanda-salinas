@@ -10,7 +10,7 @@ I enjoy building systems that make machines think a little smarter and run a lit
 🤖 &nbsp;Advocate for **STEM and women in tech**  
 ☕ &nbsp;Always learning, creating, and exploring new ideas  
 
-If you want to connect or chat about tech, automation, or creative engineering projects — feel free to reach out!  
+If you want to connect or chat about tech, automation, or projects — feel free to reach out!  
 📬 **fernandasalinas.work@gmail.com**
 
 ---
