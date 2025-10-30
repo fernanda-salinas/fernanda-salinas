@@ -5,7 +5,7 @@
 Hi, I'm **Fernanda Salinas** — a **Mechatronics Engineer** passionate about **automation, control systems, and creating technology that connects the physical and digital worlds**.  
 I enjoy building systems that make machines think a little smarter and run a little smoother.  
 
-⚙️ &nbsp;Background in **industrial automation, PLC/HMI programming, and system integration**  
+⚙️ &nbsp;Background in **industrial automation, PLC/HMI/BMS programming, and system integration**  
 🌎 &nbsp;Driven by curiosity, innovation, and meaningful engineering  
 🤖 &nbsp;Advocate for **STEM and women in tech**  
 ☕ &nbsp;Always learning, creating, and exploring new ideas  
